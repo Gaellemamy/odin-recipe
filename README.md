@@ -1,1 +1,4 @@
 # odin-recipe
+
+This project is about how we can mantain our body by avoiding 
+deseases using friuts( Gift from God). it will show you fruits recipe. this recipe will include all sorts of fruits .it will contain a Mixture of fruits (Macedoine). The benefit of eating fuits is this. Fuits is including in body protective food. they protect our body from deseases. by the end of this project , i will able to make some challenges in HTML , like making paragraphs, headings, titles, lists, differentiate html elements, linking pages, aploading images, creating directoies, repository on github. and pushing my codes on github,and deployment them.
